@@ -1,7 +1,7 @@
 # dependencies
 /frontend/build
 /frontend/node_modules/
-config/
+
 node_modules/
 
 password.txt
@@ -19,3 +19,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /.vscode
+config/
